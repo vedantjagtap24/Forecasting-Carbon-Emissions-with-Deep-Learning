@@ -1,12 +1,12 @@
 # Forecasting Carbon Emissions with Deep Learning
 
-Univariate forecasting of sector-level CO2 emissions to 2050 for the seven largest emitters, comparing linear regression, ARIMA, and shallow and deep neural networks implemented in PyTorch.
+Univariate forecasting of sector-level CO₂ emissions to 2050 for the seven largest emitters, comparing linear regression, ARIMA, and shallow and deep neural networks implemented in PyTorch.
 
 ## Overview
 
 Carbon dioxide accounts for roughly four-fifths of global greenhouse-gas emissions, and credible forecasts of where those emissions are heading are a prerequisite for climate policy and investment planning. This project asks which of four forecasting approaches can be trusted to project each emission series to 2050, using only the series' own history.
 
-**Data.** World Bank World Development Indicators, 1970 to 2023, in million tonnes of CO2.
+**Data.** World Bank World Development Indicators, 1970 to 2023, in million tonnes of CO₂.
 
 **Regions (7).** Brazil, China, European Union, India, Indonesia, Russia, United States.
 
